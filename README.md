@@ -1,5 +1,10 @@
 # Project submission templates for the OpenDataHack
 
+Welcome OpenDataHacker!
+
+Event website: http://www.ecmwf.int/en/learning/workshops/open-data-week-at-ecmwf
+Register on Eventbrite: https://goo.gl/pSLRND
+
 Project submission consists of two elements: 
 
 - a repository and 
