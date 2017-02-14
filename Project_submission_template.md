@@ -9,7 +9,7 @@ Write here your project description (max 2000 words).
 - What is the impact of your idea/solution?
 
 ## Team name & members
-The magnificent four:
+The Fantastic Four:
 
 - Mister Fantastic
 - the Invisible Woman
